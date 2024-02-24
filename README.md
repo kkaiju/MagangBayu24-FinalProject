@@ -2,9 +2,9 @@
 # Magang Bayucaraka 2024 - Final Project
 
 **Identitas Peserta**\
-Nama    : \
-NRP     : \
-Departemen  :
+Nama    : Prayoga Permana Hakim\
+NRP     : 5003231085\
+Departemen  : Statistika
 
 Final Project Programming Bayucaraka 2024
 
